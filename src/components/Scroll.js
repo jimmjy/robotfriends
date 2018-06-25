@@ -4,9 +4,11 @@ const Scroll = (props) => {
 
     const styles = {
         overflowY: 'scroll', 
-        borderTop: '1px solid #0ccac4', 
-        height: '620px', 
-        width: '100%'
+        borderTop: '1px solid #0ccac4',
+        position: 'relative',
+        height: '700px', 
+        width: '90%',
+        margin: '0 auto',
     }
 
     return (
