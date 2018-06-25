@@ -7,8 +7,6 @@ const Scroll = (props) => {
         border: '1px solid #0ccac4', 
         height: '620px', 
         borderRadius: '5px',
-        position: 'absolute',
-        bottom: '0',
         width: '100%'
     }
 
