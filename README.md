@@ -6,3 +6,5 @@ Though it is only 10 users, you can search for a user and while doing that, it w
 
 This app uses, api requests, conditional rendering and incorporates many components into the app to separate the concerns for each
 component.
+
+Project is now deploy on github pages and can be viewed at: https://jimmjy.github.io/robotfriends/
