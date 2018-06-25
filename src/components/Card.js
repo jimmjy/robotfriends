@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import '../index.css';
 
 const Card = ({ id, name, email, username }) => {
     // we can also destructure the props
